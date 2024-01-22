@@ -177,7 +177,7 @@
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1117782544</Property>
 	</Item>
 	<Item Name="ReadStatusAllPumps.vi" Type="VI" URL="../ReadStatusAllPumps.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'R!!!!$Q!I1(!!(A!!&amp;"*$:82P&lt;GF1&gt;7VQ,GRW9WRB=X-!!!FP9GJF9X1A;7Y!"!!!!!R!)1:T&gt;'&amp;U&gt;8-!!!N!!Q!%9W^E:1!!%%!Q`````Q:T&lt;X6S9W5!!#"!5!!$!!)!!Q!%%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!+E"Q!"Y!!"131W6U&lt;WZJ5(6N=#ZM&gt;G.M98.T!!!+&lt;W*K:7.U)'^V&gt;!!!%E!Q`````QF1&gt;7VQ)%ZB&lt;75!&amp;U!+!"""9X2V97QA2GRP&gt;S"3982F!!!21!I!#E:J&lt;'QA4'6W:7Q!!""!)1J*=S"Q&gt;7VQ;7ZH!!!71&amp;!!"!!(!!A!#1!+"U.M&gt;8.U:8)!%E"!!!(`````!!M&amp;18*S98E!&amp;E"1!!-!!A!$!!1*:8*S&lt;X)A&lt;X6U!)1!]!!5!!!!!1!"!!%!!1!&amp;!!%!!1!"!!%!!1!"!!%!!1!'!!%!$!!"!!%!$1-!!2!!!*!!!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!D1!!!!!!!!!*!!!!!!!!!!!!!!!."1!!!!%!$A!!!!!</Property>
