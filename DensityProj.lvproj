@@ -260,6 +260,7 @@
 			<Item Name="labbCAN_Bus_API.lvlib" Type="Library" URL="../CETONI_SDK/lib/labview/labbCAN_Bus_API/labbCAN_Bus_API.lvlib"/>
 			<Item Name="labbCAN_Pump_API.lvlib" Type="Library" URL="../CETONI_SDK/lib/labview/labbCAN_Pump_API/labbCAN_Pump_API.lvlib"/>
 			<Item Name="dwf.dll" Type="Document" URL="/../Windows/System32/dwf.dll"/>
+			<Item Name="labbCAN_Valve_API.lvlib" Type="Library" URL="../CETONI_SDK/lib/labview/labbCAN_Valve_API/labbCAN_Valve_API.lvlib"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Main Application" Type="EXE">
