@@ -77,6 +77,7 @@
 		<Item Name="VisualizeTriggerTiming.vi" Type="VI" URL="../VisualizeTriggerTiming.vi"/>
 		<Item Name="Experiment.lvclass" Type="LVClass" URL="../Experiment_class/Experiment.lvclass"/>
 		<Item Name="syringconftest.vi" Type="VI" URL="../syringconftest.vi"/>
+		<Item Name="CoriolisCompensate.vi" Type="VI" URL="../CoriolisCompensate.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="user.lib" Type="Folder">
 				<Item Name="Read Key (Variant)__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/variantconfig/variantconfig.llb/Read Key (Variant)__ogtk.vi"/>
@@ -101,6 +102,7 @@
 				<Item Name="tm_unpreparecapture_40.vi" Type="VI" URL="/&lt;userlib&gt;/Hamamatsu Video Capture/tm_unpreparecapture_40.vi"/>
 				<Item Name="tm_waitnextframe_40.vi" Type="VI" URL="/&lt;userlib&gt;/Hamamatsu Video Capture/tm_waitnextframe_40.vi"/>
 				<Item Name="Write Key (Variant)__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/variantconfig/variantconfig.llb/Write Key (Variant)__ogtk.vi"/>
+				<Item Name="tm_errorreport.vi" Type="VI" URL="/&lt;userlib&gt;/Hamamatsu Video Capture/tm_errorreport.vi"/>
 			</Item>
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="8.6CompatibleGlobalVar.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/config.llb/8.6CompatibleGlobalVar.vi"/>
@@ -216,6 +218,9 @@
 			<Item Name="labbCAN_Pump_API.lvlib" Type="Library" URL="../CETONI_SDK/lib/labview/labbCAN_Pump_API/labbCAN_Pump_API.lvlib"/>
 			<Item Name="labbCAN_Valve_API.lvlib" Type="Library" URL="../CETONI_SDK/lib/labview/labbCAN_Valve_API/labbCAN_Valve_API.lvlib"/>
 			<Item Name="dwf.dll" Type="Document" URL="/../Windows/System32/dwf.dll"/>
+			<Item Name="tmcamcon.dll" Type="Document" URL="tmcamcon.dll">
+				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
+			</Item>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Main Application" Type="EXE">
